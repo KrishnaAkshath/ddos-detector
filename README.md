@@ -94,11 +94,3 @@ Kasibhatta Krishna Akshath
 📫 Email me
 
     ⚠️ Educational Use Only — Do not use for unethical hacking or unauthorized access. Always get permission before scanning or simulating attacks.
-
-
----
-
-### ✅ Next Steps
-- Save this as `README.md` in your project folder.
-- Push or upload it to GitHub.
-- Let me know when it’s live — we’ll add badges and enhance visibility next!
